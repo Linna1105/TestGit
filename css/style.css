@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f1f1f1;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    font: 100 48px sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+p {
+    color: #666;
+    font: 100 24px sans-serif;
+}
